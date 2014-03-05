@@ -10,3 +10,5 @@ components. Its an easy to use, reliable and extendable simulater.
 
 No installation Required. It can both run as .jar (for Offline use) and as an applet (for online use). 
 It is an eclipse IDE build project. 
+
+@ Gourav Bansal
